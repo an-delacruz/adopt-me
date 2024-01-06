@@ -1,3 +1,3 @@
-# adopt-me
+# Adopt Me
 
 React App
